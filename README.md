@@ -1,7 +1,10 @@
 # EdTech Supply Chain Contract
 
-## Vision
 ![image](https://github.com/user-attachments/assets/64440e22-837f-4616-95b3-1599708904ad)
+
+
+## Vision
+
 
 The **EdTech Supply Chain** smart contract is designed to streamline and secure the tracking and verification of educational products. By leveraging blockchain technology, this contract ensures that each product's authenticity and ownership can be transparently verified, reducing the risk of counterfeit products and fraudulent claims.
 
